@@ -1,0 +1,3 @@
+"""Detector"""
+class ThreatDetector:
+    pass
