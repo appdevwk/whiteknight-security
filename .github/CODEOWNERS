@@ -1,0 +1,11 @@
+* @appdevwk
+SECURITY.md @appdevwk
+.github/SECURITY.md @appdevwk
+.github/workflows/ @appdevwk
+docs/ @appdevwk
+*.md @appdevwk
+src/ @appdevwk
+modules/ @appdevwk
+tests/ @appdevwk
+requirements.txt @appdevwk
+setup.py @appdevwk
