@@ -1,3 +1,4 @@
+# WhiteKnight Security Platform - Code Owners
 * @appdevwk
 SECURITY.md @appdevwk
 .github/SECURITY.md @appdevwk
@@ -6,6 +7,7 @@ docs/ @appdevwk
 *.md @appdevwk
 src/ @appdevwk
 modules/ @appdevwk
+*.py @appdevwk
 tests/ @appdevwk
 requirements.txt @appdevwk
 setup.py @appdevwk
