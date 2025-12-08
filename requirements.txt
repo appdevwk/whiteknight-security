@@ -2,5 +2,5 @@ Flask==2.3.3
 FastAPI==0.103.1
 pandas==2.0.3
 numpy==1.24.3
-pytest==7.4.0
+pytest==9.0.1
 pyyaml==6.0.1
